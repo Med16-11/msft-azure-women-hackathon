@@ -6,4 +6,4 @@
 - India has the highest rate of the most aggressive breast cancer in the world, triple-negative breast cancer. 
 - The survival rate of breast cancer is low because the detection takes place late.
 - Breast Cancer Detector will allow women to check whether they are suffering from this dangerous desease or not. This way they would be able to visit the doctor during earlier stages of cancer.
-- This device used Machine Learning to detect the cancer.
+- This device uses Machine Learning to detect the cancer.
